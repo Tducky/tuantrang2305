@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều lắm lắm lắm luôn ý 😘😘',
     messDesc: 'Anh mong dịch mau chóng qua đi để mình làm đám cưới nhé vợ yêu ❤️❤️',
     btnAccept: 'Ok chồng yêu 😘😘 ',
-    messLink: 'https://www.youtube.com/watch?v=jZQ4F1XFf-s' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://youtu.be/fA8vxh7YSdU' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
